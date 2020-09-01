@@ -1,0 +1,22 @@
+Essa animacao ela se aplica em todas
+é grande mesmo, do tamanho do armario(bookcase)
+e se aplica em todas
+
+como acontece?
+
+chega perto do objeto sujo
+*botao de ação*
+animação limpando (fumaça)
+muda sprite pro objeto limpo (com uma transição de fade, se possivel)
+
+No da bexiga com agua, eu pensei no seguinte
+
+CASO VOCE CONSIGA FAZEEEEEEEEER
+acho legal uma mecanica aonde voce mira, usando o mouse, aonde voce quer jogar a bexiga
+assim voce consegue limpar lugares altos como o luste, a cabeça de veado, janela.
+
+ai quando for limpar jogando a bexiga, é só a animacao de splash memo e limpa
+
+
+Achei que ficaria legal assim
+Se precisar de alguma mudança avisa
